@@ -30,3 +30,10 @@ for router in routers:
         writer.writerow([router, acls])
 
 print("ACL's exported to acls.csv")
+
+
+######Router List Format##########
+# Router IP
+# 192.168.1.1
+# 192.168.1.2
+# 192.168.1.3
